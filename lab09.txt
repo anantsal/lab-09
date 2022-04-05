@@ -1,2 +1,2 @@
-name                    motto
-Adam McCormack          I keep hoping that Rod Sterling will introduce my day
+name                    favorite movies             motto
+Adam McCormack          "Ink", "Moon"               I keep hoping that Rod Serling will introduce my day
